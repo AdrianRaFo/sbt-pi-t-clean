@@ -1,9 +1,10 @@
 
-name := "sbt-π-t-clean"
+organization := "com.github.adrianrafo"
 
-version := "0.1"
+name := "sbt-pi-t-clean"
+
+version := "0.1.0"
 
 scalaVersion := "2.12.5"
 
 sbtPlugin := true
-
